@@ -1,6 +1,6 @@
 
-# Data-Analytics-1
-> Exploratory Analysis
+# Tableau - Creating a dashboard 
+> Customer Purchasing Behavior
 
 ## Problem:
 You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour. 
