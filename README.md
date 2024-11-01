@@ -8,7 +8,6 @@ You are a data analyst working with 2Market, a global supermarket which sells pr
 ## Objective:
 2Market wants to understand: 
 - The demographics of their customers 
-- Which advertising channels seem to be the most effective
 - Which products seem to sell the best and if that varies based on demographic
 
 ## Solution:
